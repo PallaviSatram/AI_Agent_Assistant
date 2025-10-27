@@ -59,7 +59,7 @@ Add .env to your .gitignore.
 
 Clone the Repository
 
-git clone https://github.com/PallaviSatram/Project_1.git
+git clone https://github.com/PallaviSatram/AI_Agent_Assistant.git
 cd Project_1
 
 
@@ -109,3 +109,4 @@ Assistant: You don’t need to be the best today — just better than yesterday.
 
 👩‍💻 Author
 Pallavi Satram
+
